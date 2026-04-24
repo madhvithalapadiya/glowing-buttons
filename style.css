@@ -50,3 +50,18 @@
     box-shadow: none;
     cursor: pointer;
 }
+
+.button3 button {
+    padding: 20px; 
+    color: white;
+    font-weight: 800;
+    border: none; 
+    background-color: rgb(37, 36, 36);
+    border-radius: 35px;
+    border: 1px white solid;
+    transition: 0.2s ease-in-out;
+}
+
+.button3 button:hover {
+    rotate: 360deg;
+}
